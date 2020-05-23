@@ -13,3 +13,7 @@ print(fibonacci)
 
 print(' ')
 print("Powyzszy wynik to rezultat Ciagu Fibonacciego dla pierwszych 30 liczb")
+
+print(' ')
+print("To jest pierwszy dodany tekst cwiczeniowy")
+print("Po nim nastapi wykonanie komendy commit changes")
