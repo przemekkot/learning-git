@@ -10,3 +10,6 @@ for number in fibonacci:
   fibonacci.append(number)
   
 print(fibonacci)
+
+print(' ')
+print("Powyzszy wynik to rezultat Ciagu Fibonacciego dla pierwszych 30 liczb")
