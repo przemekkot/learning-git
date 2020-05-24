@@ -21,3 +21,7 @@ print("Po nim nastapi wykonanie komendy commit changes")
 print(' ')
 print("To jest drugi dodany tekst cwiczeniowy")
 print("Po nim nastapi ponowne wykonanie komendy commit changes")
+
+print(' ')
+print("To jest trzeci dodany tekst cwiczeniowy, poniewaz przed chwila dodalismy nowy branch do tego repozytorium")
+print("Po nim nastapi ponowne wykonanie komendy commit changes, jak zwykle")
